@@ -1,3 +1,3 @@
 # JoulinPresentation
 
-This repository will be updated prior to the presentations
+You can find more information about Joulin right here 
